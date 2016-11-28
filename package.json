@@ -10,5 +10,15 @@
     "type": "git",
     "url": "https://github.com/containership/containership.cloud.constants"
   },
-  "author": "containership"
+  "keywords": [
+    "containership",
+    "cloud",
+    "constants"
+  ],
+  "author": "ContainerShip Developers <developers@containership.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/containership/containership.cloud.constants/issues"
+  },
+  "homepage": "https://github.com/containership/containership.cloud.constants"
 }
