@@ -4,6 +4,7 @@ const constants = {
     DELIMITER: '::',
     LOADBALANCERS: 'loadbalancers',
     PREFIX: 'containership-cloud',
+    REGISTRIES: 'registries'
 };
 
 for(const key in constants) {
