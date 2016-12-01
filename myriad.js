@@ -1,10 +1,12 @@
 'use strict';
 
 const constants = {
+    CLUSTER_DETAILS: ['cluster', 'details'],
     DELIMITER: '::',
     LOADBALANCERS: 'loadbalancers',
     PREFIX: 'containership-cloud',
-    REGISTRIES: 'registries'
+    REGISTRIES: 'registries',
+    SNAPSHOTTING_CONFIGURATION: ['cluster', 'snapshotting-configuration']
 };
 
 for(const key in constants) {
