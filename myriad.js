@@ -3,6 +3,7 @@
 const constants = {
     CLUSTER_DETAILS: ['cluster', 'details'],
     DELIMITER: '::',
+    FIREWALLS: 'firewalls',
     LOADBALANCERS: 'loadbalancers',
     PREFIX: 'containership-cloud',
     REGISTRIES: 'registries',
