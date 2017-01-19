@@ -1,6 +1,6 @@
 {
   "name": "@containership/containership.cloud.constants",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Constants library for containership cloud functionality",
   "main": "index.js",
   "scripts": {
