@@ -7,6 +7,7 @@ const constants = {
     LOADBALANCERS: 'loadbalancers',
     PREFIX: 'containership-cloud',
     REGISTRIES: 'registries',
+    SSH_KEYS: 'ssh_keys',
     SNAPSHOTTING_CONFIGURATION: ['cluster', 'snapshotting-configuration']
 };
 
